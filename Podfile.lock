@@ -1,0 +1,16 @@
+PODS:
+  - IOSSecuritySuite (1.9.9)
+
+DEPENDENCIES:
+  - IOSSecuritySuite
+
+SPEC REPOS:
+  trunk:
+    - IOSSecuritySuite
+
+SPEC CHECKSUMS:
+  IOSSecuritySuite: 72c55371aafe586196c325a8348319c36d385ce4
+
+PODFILE CHECKSUM: a2134290dbb5317ceb2c03c919d38f3484e75c57
+
+COCOAPODS: 1.12.1
