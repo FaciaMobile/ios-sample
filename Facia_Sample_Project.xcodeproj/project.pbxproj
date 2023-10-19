@@ -7,25 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0237FE4A345C7CFDA795A9D7 /* Pods_Facia_Sample_Project.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B10FE99588B9D61ECB6F0E9F /* Pods_Facia_Sample_Project.framework */; };
-		453868772AD042AA009006DB /* Facia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 453868762AD042AA009006DB /* Facia.framework */; };
-		453868782AD042AA009006DB /* Facia.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 453868762AD042AA009006DB /* Facia.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		457823732AD01A30003A9914 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457823722AD01A30003A9914 /* AppDelegate.swift */; };
 		457823752AD01A30003A9914 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457823742AD01A30003A9914 /* SceneDelegate.swift */; };
 		457823772AD01A30003A9914 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 457823762AD01A30003A9914 /* ViewController.swift */; };
 		4578237A2AD01A30003A9914 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 457823782AD01A30003A9914 /* Main.storyboard */; };
 		4578237C2AD01A33003A9914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4578237B2AD01A33003A9914 /* Assets.xcassets */; };
 		4578237F2AD01A33003A9914 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4578237D2AD01A33003A9914 /* LaunchScreen.storyboard */; };
+		45C7A3972AE12FC000611D18 /* Facia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45C7A3962AE12FC000611D18 /* Facia.framework */; };
+		45C7A3982AE12FC000611D18 /* Facia.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 45C7A3962AE12FC000611D18 /* Facia.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		4538686F2AD03F69009006DB /* Embed Frameworks */ = {
+		45C7A3992AE12FC000611D18 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				453868782AD042AA009006DB /* Facia.framework in Embed Frameworks */,
+				45C7A3982AE12FC000611D18 /* Facia.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -33,7 +32,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		453868762AD042AA009006DB /* Facia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Facia.framework; sourceTree = "<group>"; };
 		4578236F2AD01A30003A9914 /* Facia_Sample_Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Facia_Sample_Project.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		457823722AD01A30003A9914 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		457823742AD01A30003A9914 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,9 +40,7 @@
 		4578237B2AD01A33003A9914 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4578237E2AD01A33003A9914 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		457823802AD01A33003A9914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B04C786FC2D7501CEFB3484 /* Pods-Facia_Sample_Project.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Facia_Sample_Project.debug.xcconfig"; path = "Target Support Files/Pods-Facia_Sample_Project/Pods-Facia_Sample_Project.debug.xcconfig"; sourceTree = "<group>"; };
-		B10FE99588B9D61ECB6F0E9F /* Pods_Facia_Sample_Project.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Facia_Sample_Project.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E51A870B0BD2E07C50DA2C93 /* Pods-Facia_Sample_Project.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Facia_Sample_Project.release.xcconfig"; path = "Target Support Files/Pods-Facia_Sample_Project/Pods-Facia_Sample_Project.release.xcconfig"; sourceTree = "<group>"; };
+		45C7A3962AE12FC000611D18 /* Facia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Facia.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0237FE4A345C7CFDA795A9D7 /* Pods_Facia_Sample_Project.framework in Frameworks */,
-				453868772AD042AA009006DB /* Facia.framework in Frameworks */,
+				45C7A3972AE12FC000611D18 /* Facia.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,8 +58,7 @@
 		00D4682F6E4095CA7DFE50DF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				453868762AD042AA009006DB /* Facia.framework */,
-				B10FE99588B9D61ECB6F0E9F /* Pods_Facia_Sample_Project.framework */,
+				45C7A3962AE12FC000611D18 /* Facia.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -74,7 +68,6 @@
 			children = (
 				457823712AD01A30003A9914 /* Facia_Sample_Project */,
 				457823702AD01A30003A9914 /* Products */,
-				4A83E0A86671827FFB929B51 /* Pods */,
 				00D4682F6E4095CA7DFE50DF /* Frameworks */,
 			);
 			sourceTree = "<group>";
@@ -101,15 +94,6 @@
 			path = Facia_Sample_Project;
 			sourceTree = "<group>";
 		};
-		4A83E0A86671827FFB929B51 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				8B04C786FC2D7501CEFB3484 /* Pods-Facia_Sample_Project.debug.xcconfig */,
-				E51A870B0BD2E07C50DA2C93 /* Pods-Facia_Sample_Project.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -117,12 +101,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 457823832AD01A33003A9914 /* Build configuration list for PBXNativeTarget "Facia_Sample_Project" */;
 			buildPhases = (
-				A3BA527EC96F8EBEB9B564EF /* [CP] Check Pods Manifest.lock */,
 				4578236B2AD01A30003A9914 /* Sources */,
 				4578236C2AD01A30003A9914 /* Frameworks */,
 				4578236D2AD01A30003A9914 /* Resources */,
-				410502833963E1B558F031FF /* [CP] Embed Pods Frameworks */,
-				4538686F2AD03F69009006DB /* Embed Frameworks */,
+				45C7A3992AE12FC000611D18 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -178,48 +160,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		410502833963E1B558F031FF /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Facia_Sample_Project/Pods-Facia_Sample_Project-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Facia_Sample_Project/Pods-Facia_Sample_Project-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Facia_Sample_Project/Pods-Facia_Sample_Project-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A3BA527EC96F8EBEB9B564EF /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Facia_Sample_Project-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		4578236B2AD01A30003A9914 /* Sources */ = {
@@ -370,7 +310,6 @@
 		};
 		457823842AD01A33003A9914 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8B04C786FC2D7501CEFB3484 /* Pods-Facia_Sample_Project.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -405,7 +344,6 @@
 		};
 		457823852AD01A33003A9914 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E51A870B0BD2E07C50DA2C93 /* Pods-Facia_Sample_Project.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

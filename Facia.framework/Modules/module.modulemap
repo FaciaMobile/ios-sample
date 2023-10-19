@@ -1,7 +1,7 @@
 framework module Facia {
   umbrella header "Facia.h"
-
   export *
+
   module * { export * }
 }
 

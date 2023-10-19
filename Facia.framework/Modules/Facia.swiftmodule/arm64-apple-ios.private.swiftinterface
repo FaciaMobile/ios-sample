@@ -1,14 +1,15 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name Facia
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import AVKit
 import CoreML
+import DeveloperToolsSupport
 @_exported import Facia
 import Foundation
-import IOSSecuritySuite
 import Swift
+import SwiftUI
 import SystemConfiguration
 import UIKit
 import UniformTypeIdentifiers
@@ -17,38 +18,8 @@ import VisionKit
 import WebKit
 import _Concurrency
 import _StringProcessing
-public enum Threshold : Swift.String {
-  case low
-  case medium
-  case high
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
-public enum OvalSize : Swift.String {
-  case small
-  case medium
-  case large
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
-public enum LivenessType : Swift.String {
-  case QUICK_LIVENESS_ONLY
-  case DETAILED_LIVENESS_ONLY
-  case ADDITIONAL_CHECK_LIVENESS
-  case DEFAULT_LIVENESS
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
-public class Facia {
+import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @objc public class Facia : ObjectiveC.NSObject {
   public var face_detected_oval_color: UIKit.UIColor
   public var face_not_detected_oval_color: UIKit.UIColor
   public var dark_text_color: UIKit.UIColor
@@ -57,17 +28,8 @@ public class Facia {
   public var button_bg_color: UIKit.UIColor
   public var button_text_color: UIKit.UIColor
   public var dialog_button_text_color: UIKit.UIColor
-  public init()
-  public func createRequest(parentViewController: UIKit.UIViewController, accessToken: Swift.String, configs: [Swift.String : Any]?, completion: @escaping (_ result: Any) -> ())
+  @objc public func createRequest(parentViewController: UIKit.UIViewController, accessToken: Swift.String, configs: [Swift.String : Any]?, completion: @escaping (_ result: Any) -> ())
   public func checkSimilarity(parentViewController: UIKit.UIViewController, accessToken: Swift.String, faceImage: UIKit.UIImage, idImage: UIKit.UIImage, configs: [Swift.String : Any]?, completion: @escaping (_ result: Any) -> ())
+  @objc override dynamic public init()
   @objc deinit
 }
-extension Facia.Threshold : Swift.Equatable {}
-extension Facia.Threshold : Swift.Hashable {}
-extension Facia.Threshold : Swift.RawRepresentable {}
-extension Facia.OvalSize : Swift.Equatable {}
-extension Facia.OvalSize : Swift.Hashable {}
-extension Facia.OvalSize : Swift.RawRepresentable {}
-extension Facia.LivenessType : Swift.Equatable {}
-extension Facia.LivenessType : Swift.Hashable {}
-extension Facia.LivenessType : Swift.RawRepresentable {}
