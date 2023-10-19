@@ -13,18 +13,18 @@
 		4578237A2AD01A30003A9914 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 457823782AD01A30003A9914 /* Main.storyboard */; };
 		4578237C2AD01A33003A9914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4578237B2AD01A33003A9914 /* Assets.xcassets */; };
 		4578237F2AD01A33003A9914 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4578237D2AD01A33003A9914 /* LaunchScreen.storyboard */; };
-		45C7A3972AE12FC000611D18 /* Facia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45C7A3962AE12FC000611D18 /* Facia.framework */; };
-		45C7A3982AE12FC000611D18 /* Facia.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 45C7A3962AE12FC000611D18 /* Facia.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		45C7A39E2AE13B8200611D18 /* Facia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45C7A39D2AE13B8200611D18 /* Facia.framework */; };
+		45C7A39F2AE13B8200611D18 /* Facia.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 45C7A39D2AE13B8200611D18 /* Facia.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		45C7A3992AE12FC000611D18 /* Embed Frameworks */ = {
+		45C7A3A02AE13B8200611D18 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				45C7A3982AE12FC000611D18 /* Facia.framework in Embed Frameworks */,
+				45C7A39F2AE13B8200611D18 /* Facia.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -40,7 +40,7 @@
 		4578237B2AD01A33003A9914 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4578237E2AD01A33003A9914 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		457823802AD01A33003A9914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		45C7A3962AE12FC000611D18 /* Facia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Facia.framework; sourceTree = "<group>"; };
+		45C7A39D2AE13B8200611D18 /* Facia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Facia.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				45C7A3972AE12FC000611D18 /* Facia.framework in Frameworks */,
+				45C7A39E2AE13B8200611D18 /* Facia.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,7 +58,7 @@
 		00D4682F6E4095CA7DFE50DF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				45C7A3962AE12FC000611D18 /* Facia.framework */,
+				45C7A39D2AE13B8200611D18 /* Facia.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -104,7 +104,7 @@
 				4578236B2AD01A30003A9914 /* Sources */,
 				4578236C2AD01A30003A9914 /* Frameworks */,
 				4578236D2AD01A30003A9914 /* Resources */,
-				45C7A3992AE12FC000611D18 /* Embed Frameworks */,
+				45C7A3A02AE13B8200611D18 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
