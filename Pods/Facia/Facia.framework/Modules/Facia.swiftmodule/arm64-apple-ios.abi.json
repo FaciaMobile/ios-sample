@@ -11699,6 +11699,303 @@
           },
           {
             "kind": "Var",
+            "name": "base64Images",
+            "printedName": "base64Images",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia22VerificationControllerC12base64ImagesSaySSGvp",
+            "mangledName": "$s5Facia22VerificationControllerC12base64ImagesSaySSGvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC12base64ImagesSaySSGvg",
+                "mangledName": "$s5Facia22VerificationControllerC12base64ImagesSaySSGvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC12base64ImagesSaySSGvs",
+                "mangledName": "$s5Facia22VerificationControllerC12base64ImagesSaySSGvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC12base64ImagesSaySSGvM",
+                "mangledName": "$s5Facia22VerificationControllerC12base64ImagesSaySSGvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isVideoUploaded",
+            "printedName": "isVideoUploaded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia22VerificationControllerC15isVideoUploadedSbvp",
+            "mangledName": "$s5Facia22VerificationControllerC15isVideoUploadedSbvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 5,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC15isVideoUploadedSbvg",
+                "mangledName": "$s5Facia22VerificationControllerC15isVideoUploadedSbvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC15isVideoUploadedSbvs",
+                "mangledName": "$s5Facia22VerificationControllerC15isVideoUploadedSbvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC15isVideoUploadedSbvM",
+                "mangledName": "$s5Facia22VerificationControllerC15isVideoUploadedSbvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isButtonTapped",
+            "printedName": "isButtonTapped",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia22VerificationControllerC14isButtonTappedSbvp",
+            "mangledName": "$s5Facia22VerificationControllerC14isButtonTappedSbvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 6,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC14isButtonTappedSbvg",
+                "mangledName": "$s5Facia22VerificationControllerC14isButtonTappedSbvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC14isButtonTappedSbvs",
+                "mangledName": "$s5Facia22VerificationControllerC14isButtonTappedSbvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC14isButtonTappedSbvM",
+                "mangledName": "$s5Facia22VerificationControllerC14isButtonTappedSbvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "downloadsSession",
             "printedName": "downloadsSession",
             "children": [
@@ -11817,7 +12114,7 @@
               "HasStorage",
               "Final"
             ],
-            "fixedbinaryorder": 4,
+            "fixedbinaryorder": 7,
             "hasStorage": true
           },
           {
@@ -11842,7 +12139,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 5,
+            "fixedbinaryorder": 8,
             "hasStorage": true,
             "accessors": [
               {
@@ -11933,7 +12230,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 6,
+            "fixedbinaryorder": 9,
             "hasStorage": true,
             "accessors": [
               {
@@ -12024,7 +12321,7 @@
               "HasStorage",
               "ReferenceOwnership"
             ],
-            "fixedbinaryorder": 7,
+            "fixedbinaryorder": 10,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -12132,7 +12429,7 @@
               "HasStorage",
               "ReferenceOwnership"
             ],
-            "fixedbinaryorder": 8,
+            "fixedbinaryorder": 11,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -12253,7 +12550,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 9,
+            "fixedbinaryorder": 12,
             "hasStorage": true,
             "accessors": [
               {
@@ -12389,7 +12686,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 10,
+            "fixedbinaryorder": 13,
             "hasStorage": true,
             "accessors": [
               {
@@ -12518,7 +12815,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 11,
+            "fixedbinaryorder": 14,
             "hasStorage": true,
             "accessors": [
               {
@@ -12609,7 +12906,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 12,
+            "fixedbinaryorder": 15,
             "hasStorage": true,
             "accessors": [
               {
@@ -12700,7 +12997,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 13,
+            "fixedbinaryorder": 16,
             "hasStorage": true,
             "accessors": [
               {
@@ -12791,7 +13088,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 14,
+            "fixedbinaryorder": 17,
             "hasStorage": true,
             "accessors": [
               {
@@ -12862,6 +13159,97 @@
           },
           {
             "kind": "Var",
+            "name": "isResponseFinalized",
+            "printedName": "isResponseFinalized",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia22VerificationControllerC19isResponseFinalizedSbvp",
+            "mangledName": "$s5Facia22VerificationControllerC19isResponseFinalizedSbvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 18,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC19isResponseFinalizedSbvg",
+                "mangledName": "$s5Facia22VerificationControllerC19isResponseFinalizedSbvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC19isResponseFinalizedSbvs",
+                "mangledName": "$s5Facia22VerificationControllerC19isResponseFinalizedSbvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia22VerificationControllerC19isResponseFinalizedSbvM",
+                "mangledName": "$s5Facia22VerificationControllerC19isResponseFinalizedSbvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "verificationResultStatus",
             "printedName": "verificationResultStatus",
             "children": [
@@ -12890,7 +13278,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 15,
+            "fixedbinaryorder": 19,
             "hasStorage": true,
             "accessors": [
               {
@@ -13201,6 +13589,27 @@
           },
           {
             "kind": "Function",
+            "name": "uploadReferenceVideo",
+            "printedName": "uploadReferenceVideo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia22VerificationControllerC20uploadReferenceVideoyyF",
+            "mangledName": "$s5Facia22VerificationControllerC20uploadReferenceVideoyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "showFailure",
             "printedName": "showFailure(for:)",
             "children": [
@@ -13241,6 +13650,71 @@
             "declKind": "Func",
             "usr": "s:5Facia22VerificationControllerC24setLivenessRequestHeader10Foundation10URLRequestVyF",
             "mangledName": "$s5Facia22VerificationControllerC24setLivenessRequestHeader10Foundation10URLRequestVyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setReferenceVideoRequestHeader",
+            "printedName": "setReferenceVideoRequestHeader()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URLRequest",
+                "printedName": "Foundation.URLRequest",
+                "usr": "s:10Foundation10URLRequestV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia22VerificationControllerC30setReferenceVideoRequestHeader10Foundation10URLRequestVyF",
+            "mangledName": "$s5Facia22VerificationControllerC30setReferenceVideoRequestHeader10Foundation10URLRequestVyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "sendPassiveFrames",
+            "printedName": "sendPassiveFrames()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia22VerificationControllerC17sendPassiveFramesyyF",
+            "mangledName": "$s5Facia22VerificationControllerC17sendPassiveFramesyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setHeaderForProofs",
+            "printedName": "setHeaderForProofs()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URLRequest",
+                "printedName": "Foundation.URLRequest",
+                "usr": "s:10Foundation10URLRequestV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia22VerificationControllerC18setHeaderForProofs10Foundation10URLRequestVyF",
+            "mangledName": "$s5Facia22VerificationControllerC18setHeaderForProofs10Foundation10URLRequestVyF",
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
@@ -23229,6 +23703,723 @@
         "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "Facia"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Facia",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "Facia"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestingViewController",
+        "printedName": "TestingViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "rawVideoURL",
+            "printedName": "rawVideoURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0Vvp",
+            "mangledName": "$s5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0Vvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0Vvg",
+                "mangledName": "$s5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0Vvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0Vvs",
+                "mangledName": "$s5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0Vvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0VvM",
+                "mangledName": "$s5Facia21TestingViewControllerC11rawVideoURL10Foundation0G0VvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "player",
+            "printedName": "player",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AVFoundation.AVPlayer?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AVPlayer",
+                    "printedName": "AVFoundation.AVPlayer",
+                    "usr": "c:objc(cs)AVPlayer"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvp",
+            "mangledName": "$s5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AVFoundation.AVPlayer?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVPlayer",
+                        "printedName": "AVFoundation.AVPlayer",
+                        "usr": "c:objc(cs)AVPlayer"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvg",
+                "mangledName": "$s5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AVFoundation.AVPlayer?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVPlayer",
+                        "printedName": "AVFoundation.AVPlayer",
+                        "usr": "c:objc(cs)AVPlayer"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvs",
+                "mangledName": "$s5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvM",
+                "mangledName": "$s5Facia21TestingViewControllerC6playerSo8AVPlayerCSgvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "playerLayer",
+            "printedName": "playerLayer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AVFoundation.AVPlayerLayer?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AVPlayerLayer",
+                    "printedName": "AVFoundation.AVPlayerLayer",
+                    "usr": "c:objc(cs)AVPlayerLayer"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvp",
+            "mangledName": "$s5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AVFoundation.AVPlayerLayer?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVPlayerLayer",
+                        "printedName": "AVFoundation.AVPlayerLayer",
+                        "usr": "c:objc(cs)AVPlayerLayer"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvg",
+                "mangledName": "$s5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AVFoundation.AVPlayerLayer?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AVPlayerLayer",
+                        "printedName": "AVFoundation.AVPlayerLayer",
+                        "usr": "c:objc(cs)AVPlayerLayer"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvs",
+                "mangledName": "$s5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvM",
+                "mangledName": "$s5Facia21TestingViewControllerC11playerLayerSo08AVPlayerF0CSgvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "videoView",
+            "printedName": "videoView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UIView?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Facia@objc(cs)TestingViewController(py)videoView",
+            "mangledName": "$s5Facia21TestingViewControllerC05videoC0So6UIViewCSgvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "fixedbinaryorder": 3,
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Facia@objc(cs)TestingViewController(im)videoView",
+                "mangledName": "$s5Facia21TestingViewControllerC05videoC0So6UIViewCSgvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Facia@objc(cs)TestingViewController(im)setVideoView:",
+                "mangledName": "$s5Facia21TestingViewControllerC05videoC0So6UIViewCSgvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21TestingViewControllerC05videoC0So6UIViewCSgvM",
+                "mangledName": "$s5Facia21TestingViewControllerC05videoC0So6UIViewCSgvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Facia@objc(cs)TestingViewController(im)viewDidLoad",
+            "mangledName": "$s5Facia21TestingViewControllerC11viewDidLoadyyF",
+            "moduleName": "Facia",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidAppear",
+            "printedName": "viewDidAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Facia@objc(cs)TestingViewController(im)viewDidAppear:",
+            "mangledName": "$s5Facia21TestingViewControllerC13viewDidAppearyySbF",
+            "moduleName": "Facia",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "playRecordedVideo",
+            "printedName": "playRecordedVideo()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia21TestingViewControllerC17playRecordedVideoyyF",
+            "mangledName": "$s5Facia21TestingViewControllerC17playRecordedVideoyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TestingViewController",
+                "printedName": "Facia.TestingViewController",
+                "usr": "c:@M@Facia@objc(cs)TestingViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Facia@objc(cs)TestingViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s5Facia21TestingViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "Facia",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Facia.TestingViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TestingViewController",
+                    "printedName": "Facia.TestingViewController",
+                    "usr": "c:@M@Facia@objc(cs)TestingViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Facia@objc(cs)TestingViewController(im)initWithCoder:",
+            "mangledName": "$s5Facia21TestingViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "Facia",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Facia@objc(cs)TestingViewController",
+        "mangledName": "$s5Facia21TestingViewControllerC",
+        "moduleName": "Facia",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -35673,6 +36864,97 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "isImageCaptured",
+            "printedName": "isImageCaptured",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia23CardDetectionControllerC15isImageCapturedSbvp",
+            "mangledName": "$s5Facia23CardDetectionControllerC15isImageCapturedSbvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 38,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23CardDetectionControllerC15isImageCapturedSbvg",
+                "mangledName": "$s5Facia23CardDetectionControllerC15isImageCapturedSbvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23CardDetectionControllerC15isImageCapturedSbvs",
+                "mangledName": "$s5Facia23CardDetectionControllerC15isImageCapturedSbvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23CardDetectionControllerC15isImageCapturedSbvM",
+                "mangledName": "$s5Facia23CardDetectionControllerC15isImageCapturedSbvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
@@ -44501,6 +45783,97 @@
           },
           {
             "kind": "Var",
+            "name": "passiveLivenessFrame",
+            "printedName": "passiveLivenessFrame",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvp",
+            "mangledName": "$s5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 46,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvg",
+                "mangledName": "$s5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvs",
+                "mangledName": "$s5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvM",
+                "mangledName": "$s5Facia23LiveDetectionControllerC20passiveLivenessFrameSo7UIImageCvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "verificationCompleted",
             "printedName": "verificationCompleted",
             "children": [
@@ -44521,7 +45894,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 46,
+            "fixedbinaryorder": 47,
             "hasStorage": true,
             "accessors": [
               {
@@ -44631,7 +46004,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 47,
+            "fixedbinaryorder": 48,
             "hasStorage": true,
             "accessors": [
               {
@@ -44760,7 +46133,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 48,
+            "fixedbinaryorder": 49,
             "hasStorage": true,
             "accessors": [
               {
@@ -44851,7 +46224,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 49,
+            "fixedbinaryorder": 50,
             "hasStorage": true,
             "accessors": [
               {
@@ -44950,7 +46323,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 50,
+            "fixedbinaryorder": 51,
             "hasStorage": true,
             "accessors": [
               {
@@ -45065,7 +46438,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 51,
+            "fixedbinaryorder": 52,
             "hasStorage": true,
             "accessors": [
               {
@@ -45180,7 +46553,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 52,
+            "fixedbinaryorder": 53,
             "hasStorage": true,
             "accessors": [
               {
@@ -45287,7 +46660,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 53,
+            "fixedbinaryorder": 54,
             "hasStorage": true,
             "accessors": [
               {
@@ -45386,7 +46759,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 54,
+            "fixedbinaryorder": 55,
             "hasStorage": true,
             "accessors": [
               {
@@ -45493,7 +46866,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 55,
+            "fixedbinaryorder": 56,
             "hasStorage": true,
             "accessors": [
               {
@@ -45584,7 +46957,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 56,
+            "fixedbinaryorder": 57,
             "hasStorage": true,
             "accessors": [
               {
@@ -45675,7 +47048,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 57,
+            "fixedbinaryorder": 58,
             "hasStorage": true,
             "accessors": [
               {
@@ -45766,7 +47139,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 58,
+            "fixedbinaryorder": 59,
             "hasStorage": true,
             "accessors": [
               {
@@ -45857,7 +47230,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 59,
+            "fixedbinaryorder": 60,
             "hasStorage": true,
             "accessors": [
               {
@@ -45948,7 +47321,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 60,
+            "fixedbinaryorder": 61,
             "hasStorage": true,
             "accessors": [
               {
@@ -46039,7 +47412,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 61,
+            "fixedbinaryorder": 62,
             "hasStorage": true,
             "accessors": [
               {
@@ -46130,7 +47503,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 62,
+            "fixedbinaryorder": 63,
             "hasStorage": true,
             "accessors": [
               {
@@ -46221,7 +47594,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 63,
+            "fixedbinaryorder": 64,
             "hasStorage": true,
             "accessors": [
               {
@@ -46312,7 +47685,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 64,
+            "fixedbinaryorder": 65,
             "hasStorage": true,
             "accessors": [
               {
@@ -46403,7 +47776,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 65,
+            "fixedbinaryorder": 66,
             "hasStorage": true,
             "accessors": [
               {
@@ -46494,7 +47867,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 66,
+            "fixedbinaryorder": 67,
             "hasStorage": true,
             "accessors": [
               {
@@ -46585,7 +47958,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 67,
+            "fixedbinaryorder": 68,
             "hasStorage": true,
             "accessors": [
               {
@@ -46676,7 +48049,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 68,
+            "fixedbinaryorder": 69,
             "hasStorage": true,
             "accessors": [
               {
@@ -46767,7 +48140,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 69,
+            "fixedbinaryorder": 70,
             "hasStorage": true,
             "accessors": [
               {
@@ -46866,7 +48239,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 70,
+            "fixedbinaryorder": 71,
             "hasStorage": true,
             "accessors": [
               {
@@ -46973,7 +48346,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 71,
+            "fixedbinaryorder": 72,
             "hasStorage": true,
             "accessors": [
               {
@@ -47064,7 +48437,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 72,
+            "fixedbinaryorder": 73,
             "hasStorage": true,
             "accessors": [
               {
@@ -47155,7 +48528,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 73,
+            "fixedbinaryorder": 74,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -47205,7 +48578,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 74,
+            "fixedbinaryorder": 75,
             "hasStorage": true,
             "accessors": [
               {
@@ -47296,7 +48669,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 75,
+            "fixedbinaryorder": 76,
             "hasStorage": true,
             "accessors": [
               {
@@ -47387,7 +48760,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 76,
+            "fixedbinaryorder": 77,
             "hasStorage": true,
             "accessors": [
               {
@@ -47478,7 +48851,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 77,
+            "fixedbinaryorder": 78,
             "hasStorage": true,
             "accessors": [
               {
@@ -47569,7 +48942,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 78,
+            "fixedbinaryorder": 79,
             "hasStorage": true,
             "accessors": [
               {
@@ -47660,7 +49033,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 79,
+            "fixedbinaryorder": 80,
             "hasStorage": true,
             "accessors": [
               {
@@ -47751,7 +49124,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 80,
+            "fixedbinaryorder": 81,
             "hasStorage": true,
             "accessors": [
               {
@@ -47842,7 +49215,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 81,
+            "fixedbinaryorder": 82,
             "hasStorage": true,
             "accessors": [
               {
@@ -47933,7 +49306,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 82,
+            "fixedbinaryorder": 83,
             "hasStorage": true,
             "accessors": [
               {
@@ -48024,7 +49397,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 83,
+            "fixedbinaryorder": 84,
             "hasStorage": true,
             "accessors": [
               {
@@ -48115,7 +49488,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 84,
+            "fixedbinaryorder": 85,
             "hasStorage": true,
             "accessors": [
               {
@@ -48206,7 +49579,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 85,
+            "fixedbinaryorder": 86,
             "hasStorage": true,
             "accessors": [
               {
@@ -48297,7 +49670,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 86,
+            "fixedbinaryorder": 87,
             "hasStorage": true,
             "accessors": [
               {
@@ -48388,7 +49761,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 87,
+            "fixedbinaryorder": 88,
             "hasStorage": true,
             "accessors": [
               {
@@ -48487,7 +49860,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 88,
+            "fixedbinaryorder": 89,
             "hasStorage": true,
             "accessors": [
               {
@@ -48594,7 +49967,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 89,
+            "fixedbinaryorder": 90,
             "hasStorage": true,
             "accessors": [
               {
@@ -48685,7 +50058,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 90,
+            "fixedbinaryorder": 91,
             "hasStorage": true,
             "accessors": [
               {
@@ -48776,7 +50149,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 91,
+            "fixedbinaryorder": 92,
             "hasStorage": true,
             "accessors": [
               {
@@ -48867,7 +50240,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 92,
+            "fixedbinaryorder": 93,
             "hasStorage": true,
             "accessors": [
               {
@@ -48966,7 +50339,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 93,
+            "fixedbinaryorder": 94,
             "hasStorage": true,
             "accessors": [
               {
@@ -49073,7 +50446,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 94,
+            "fixedbinaryorder": 95,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -49131,7 +50504,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 95,
+            "fixedbinaryorder": 96,
             "hasStorage": true,
             "accessors": [
               {
@@ -49246,7 +50619,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 96,
+            "fixedbinaryorder": 97,
             "hasStorage": true,
             "accessors": [
               {
@@ -49361,7 +50734,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 97,
+            "fixedbinaryorder": 98,
             "hasStorage": true,
             "accessors": [
               {
@@ -49470,7 +50843,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 98,
+            "fixedbinaryorder": 99,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -49586,7 +50959,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 99,
+            "fixedbinaryorder": 100,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -49671,6 +51044,121 @@
                 "declKind": "Accessor",
                 "usr": "s:5Facia23LiveDetectionControllerC13customWebViewSo05WKWebG0CSgvM",
                 "mangledName": "$s5Facia23LiveDetectionControllerC13customWebViewSo05WKWebG0CSgvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "quickFramesCollection",
+            "printedName": "quickFramesCollection",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvp",
+            "mangledName": "$s5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 101,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UIKit.UIImage]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvg",
+                "mangledName": "$s5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UIKit.UIImage]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvs",
+                "mangledName": "$s5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvM",
+                "mangledName": "$s5Facia23LiveDetectionControllerC21quickFramesCollectionSaySo7UIImageCGvM",
                 "moduleName": "Facia",
                 "implicit": true,
                 "isOpen": true,
@@ -50240,6 +51728,28 @@
             "declAttributes": [
               "Custom",
               "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "navigateTestingController",
+            "printedName": "navigateTestingController()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC015navigateTestingD0yyF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC015navigateTestingD0yyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -51529,6 +53039,50 @@
           },
           {
             "kind": "Function",
+            "name": "startRecordingPassiveLiveness",
+            "printedName": "startRecordingPassiveLiveness()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC29startRecordingPassiveLivenessyyF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC29startRecordingPassiveLivenessyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stopRecordingPassiveLiveness",
+            "printedName": "stopRecordingPassiveLiveness()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC28stopRecordingPassiveLivenessyyF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC28stopRecordingPassiveLivenessyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "stopRecordingVideo",
             "printedName": "stopRecordingVideo()",
             "children": [
@@ -52017,6 +53571,138 @@
             "declKind": "Func",
             "usr": "s:5Facia23LiveDetectionControllerC19presentInstructions17presentedManuallyySb_tF",
             "mangledName": "$s5Facia23LiveDetectionControllerC19presentInstructions17presentedManuallyySb_tF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "collectPassiveFrames",
+            "printedName": "collectPassiveFrames(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CIImage",
+                "printedName": "CoreImage.CIImage",
+                "usr": "c:objc(cs)CIImage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC20collectPassiveFramesyySo7CIImageCF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC20collectPassiveFramesyySo7CIImageCF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "resetFrameCollection",
+            "printedName": "resetFrameCollection()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC20resetFrameCollectionyyF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC20resetFrameCollectionyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "convertImagesToBase64",
+            "printedName": "convertImagesToBase64()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC21convertImagesToBase64SaySSGyF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC21convertImagesToBase64SaySSGyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "printImageSizes",
+            "printedName": "printImageSizes()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC15printImageSizesyyF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC15printImageSizesyyF",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "calculateSize",
+            "printedName": "calculateSize(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Facia23LiveDetectionControllerC13calculateSizeySSSiF",
+            "mangledName": "$s5Facia23LiveDetectionControllerC13calculateSizeySSSiF",
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
@@ -53988,6 +55674,97 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "isButtonTapped",
+            "printedName": "isButtonTapped",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Facia21PreviewViewControllerC14isButtonTappedSbvp",
+            "mangledName": "$s5Facia21PreviewViewControllerC14isButtonTappedSbvp",
+            "moduleName": "Facia",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 10,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21PreviewViewControllerC14isButtonTappedSbvg",
+                "mangledName": "$s5Facia21PreviewViewControllerC14isButtonTappedSbvg",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21PreviewViewControllerC14isButtonTappedSbvs",
+                "mangledName": "$s5Facia21PreviewViewControllerC14isButtonTappedSbvs",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Facia21PreviewViewControllerC14isButtonTappedSbvM",
+                "mangledName": "$s5Facia21PreviewViewControllerC14isButtonTappedSbvM",
+                "moduleName": "Facia",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "viewDidLoad",
             "printedName": "viewDidLoad()",
@@ -54005,6 +55782,38 @@
             "overriding": true,
             "isOpen": true,
             "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidDisappear",
+            "printedName": "viewDidDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Facia@objc(cs)PreviewViewController(im)viewDidDisappear:",
+            "mangledName": "$s5Facia21PreviewViewControllerC16viewDidDisappearyySbF",
+            "moduleName": "Facia",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidDisappear:",
             "declAttributes": [
               "Dynamic",
               "ObjC",
@@ -63308,50 +65117,78 @@
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
+      "kind": "Array",
+      "offset": 296,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 325,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 356,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "StringLiteral",
-      "offset": 413,
+      "offset": 510,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "StringLiteral",
-      "offset": 465,
+      "offset": 562,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "StringLiteral",
-      "offset": 476,
+      "offset": 573,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "StringLiteral",
-      "offset": 759,
+      "offset": 856,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "StringLiteral",
-      "offset": 792,
+      "offset": 889,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1001,
+      "offset": 1098,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1088,
+      "offset": 1185,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Verification\/VerificationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1221,
       "length": 5,
       "value": "false"
     },
@@ -63594,37 +65431,44 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/Main\/TestingViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/WebHooks\/Webhook.swift",
       "kind": "StringLiteral",
-      "offset": 2208,
+      "offset": 2186,
       "length": 7,
       "value": "\":#[]@\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/WebHooks\/Webhook.swift",
       "kind": "StringLiteral",
-      "offset": 2313,
+      "offset": 2291,
       "length": 13,
       "value": "\"!$&'()*+,;=\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/WebHooks\/Webhook.swift",
       "kind": "StringLiteral",
-      "offset": 2424,
+      "offset": 2402,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/WebHooks\/Webhook.swift",
       "kind": "StringLiteral",
-      "offset": 2453,
+      "offset": 2431,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/WebHooks\/Webhook.swift",
       "kind": "StringLiteral",
-      "offset": 2477,
+      "offset": 2455,
       "length": 2,
       "value": "\"\""
     },
@@ -65099,6 +66943,13 @@
       "value": "0"
     },
     {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardDetectionController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1905,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/InstructionsController\/ActiveLivenessViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 346,
@@ -65178,196 +67029,203 @@
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2257,
+      "offset": 2421,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2133,
+      "offset": 2169,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "StringLiteral",
-      "offset": 2452,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "StringLiteral",
-      "offset": 2507,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "BooleanLiteral",
       "offset": 2649,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2907,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2933,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2957,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3065,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3239,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3259,
-      "length": 1,
-      "value": "0"
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "StringLiteral",
-      "offset": 3389,
+      "offset": 2704,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3419,
+      "offset": 2846,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3449,
+      "offset": 3104,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3482,
+      "offset": 3130,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3154,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3262,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3513,
+      "offset": 3436,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3456,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "StringLiteral",
+      "offset": 3586,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3616,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3556,
+      "offset": 3646,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3679,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3710,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3753,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "FloatLiteral",
-      "offset": 3592,
+      "offset": 3789,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3629,
+      "offset": 3826,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3661,
+      "offset": 3858,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3692,
+      "offset": 3889,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3772,
+      "offset": 3969,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3809,
+      "offset": 4006,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3938,
+      "offset": 4135,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4098,
+      "offset": 4295,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4126,
+      "offset": 4323,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4715,
+      "offset": 4912,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/LiveDetection\/LiveDetectionController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4921,
+      "offset": 5118,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yasir\/Desktop\/Old-Data\/Desktop\/Desktop\/Code\/Facia\/facia_default_sdk\/facia-ios\/Facia\/FaciaModule\/CardDetection\/CardPreview\/PreviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 580,
       "length": 5,
       "value": "false"
     },
