@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     
     func additionalConfiguration(){
         configs = [
-                    "showConsent" : false,
+                    "showConsent" : true,
                     "livenessType" : "ADDITIONAL",
                     "qlFaceDetectionTimeout" : true,
                     "dlFaceDetectionTimeout" : true,
