@@ -1,5 +1,5 @@
 PODS:
-  - Facia (1.1.4)
+  - Facia (3.0.4)
 
 DEPENDENCIES:
   - Facia
@@ -9,7 +9,7 @@ SPEC REPOS:
     - Facia
 
 SPEC CHECKSUMS:
-  Facia: 7086344671cfd83419ad9d65d4454e25fee0b93f
+  Facia: fddd546a8ce6c4fe9fc6cd1940126eaa221551c6
 
 PODFILE CHECKSUM: a6cffcbf63f4c2530980c083ab3101f6895a08c3
 
