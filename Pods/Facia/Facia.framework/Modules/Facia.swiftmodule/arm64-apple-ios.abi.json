@@ -8954,8 +8954,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -9070,8 +9070,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -9186,8 +9186,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -9302,8 +9302,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -9437,9 +9437,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -9566,9 +9566,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -9657,9 +9657,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 6,
             "hasStorage": true,
@@ -9749,8 +9749,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "hasStorage": true,
@@ -9839,9 +9839,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -9943,9 +9943,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 9,
             "hasStorage": true,
@@ -10060,9 +10060,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 10,
             "hasStorage": true,
@@ -10151,8 +10151,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -10267,8 +10267,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -10383,8 +10383,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -10499,8 +10499,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -10615,8 +10615,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -10731,8 +10731,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -10847,8 +10847,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -11749,8 +11749,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -11865,8 +11865,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -11981,8 +11981,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -12097,8 +12097,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -12221,9 +12221,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -12328,9 +12328,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -12419,9 +12419,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 6,
             "hasStorage": true,
@@ -12607,9 +12607,9 @@
             "implicit": true,
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "Final"
             ],
             "fixedbinaryorder": 7,
@@ -12633,9 +12633,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -12724,9 +12724,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 9,
             "hasStorage": true,
@@ -12814,9 +12814,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership"
             ],
             "fixedbinaryorder": 10,
@@ -12922,9 +12922,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership"
             ],
             "fixedbinaryorder": 11,
@@ -13044,9 +13044,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 12,
             "hasStorage": true,
@@ -13180,9 +13180,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 13,
             "hasStorage": true,
@@ -13309,9 +13309,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 14,
             "hasStorage": true,
@@ -13400,9 +13400,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 15,
             "hasStorage": true,
@@ -13491,9 +13491,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 16,
             "hasStorage": true,
@@ -13582,9 +13582,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 17,
             "hasStorage": true,
@@ -13673,9 +13673,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 18,
             "hasStorage": true,
@@ -13773,8 +13773,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 19,
             "hasStorage": true,
@@ -14673,12 +14673,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -14718,12 +14718,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -18344,8 +18344,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -18460,8 +18460,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -18576,8 +18576,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -18692,8 +18692,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -18808,8 +18808,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -18924,9 +18924,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -19015,9 +19015,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 6,
             "hasStorage": true,
@@ -19125,9 +19125,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "hasStorage": true,
@@ -19267,9 +19267,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -19384,9 +19384,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 9,
             "hasStorage": true,
@@ -19474,10 +19474,10 @@
             "mangledName": "$s5Facia19AgreementControllerC17selectableString1SSvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 10,
             "isLet": true,
@@ -19524,10 +19524,10 @@
             "mangledName": "$s5Facia19AgreementControllerC17selectableString2SSvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 11,
             "isLet": true,
@@ -19575,8 +19575,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -19691,8 +19691,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -19807,8 +19807,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -19923,8 +19923,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -20746,8 +20746,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -20862,8 +20862,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -20991,9 +20991,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 2,
             "hasStorage": true,
@@ -21127,9 +21127,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 3,
             "hasStorage": true,
@@ -21256,9 +21256,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -21347,8 +21347,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -21463,8 +21463,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -21579,9 +21579,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "hasStorage": true,
@@ -22763,16 +22763,7 @@
         "declKind": "Struct",
         "usr": "s:5Facia10BitmapDataV",
         "mangledName": "$s5Facia10BitmapDataV",
-        "moduleName": "Facia",
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
+        "moduleName": "Facia"
       },
       {
         "kind": "Import",
@@ -23375,8 +23366,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -23491,8 +23482,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -23607,8 +23598,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -23723,8 +23714,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -23839,8 +23830,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -23955,9 +23946,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -24046,9 +24037,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 6,
             "hasStorage": true,
@@ -24156,9 +24147,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "hasStorage": true,
@@ -24304,9 +24295,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -24831,8 +24822,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -24947,8 +24938,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -25063,8 +25054,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -25169,12 +25160,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Facia.InstructionProtocol?",
+                "printedName": "(any Facia.InstructionProtocol)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "InstructionProtocol",
-                    "printedName": "Facia.InstructionProtocol",
+                    "printedName": "any Facia.InstructionProtocol",
                     "usr": "s:5Facia19InstructionProtocolP"
                   }
                 ],
@@ -25187,9 +25178,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 3,
             "hasStorage": true,
@@ -25202,12 +25193,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "Facia.InstructionProtocol?",
+                    "printedName": "(any Facia.InstructionProtocol)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "InstructionProtocol",
-                        "printedName": "Facia.InstructionProtocol",
+                        "printedName": "any Facia.InstructionProtocol",
                         "usr": "s:5Facia19InstructionProtocolP"
                       }
                     ],
@@ -25235,12 +25226,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "Facia.InstructionProtocol?",
+                    "printedName": "(any Facia.InstructionProtocol)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "InstructionProtocol",
-                        "printedName": "Facia.InstructionProtocol",
+                        "printedName": "any Facia.InstructionProtocol",
                         "usr": "s:5Facia19InstructionProtocolP"
                       }
                     ],
@@ -25592,8 +25583,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -25708,8 +25699,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -25824,8 +25815,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -26166,9 +26157,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 0,
             "hasStorage": true,
@@ -26265,9 +26256,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 1,
             "hasStorage": true,
@@ -26380,9 +26371,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 2,
             "hasStorage": true,
@@ -26487,8 +26478,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27135,9 +27126,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 0,
             "hasStorage": true,
@@ -27264,8 +27255,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27380,8 +27371,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27496,8 +27487,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27612,8 +27603,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27728,8 +27719,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27844,8 +27835,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -27960,8 +27951,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -28076,8 +28067,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -30315,8 +30306,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -30431,8 +30422,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -30547,8 +30538,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -30663,8 +30654,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -30779,9 +30770,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -30889,9 +30880,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -31017,9 +31008,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership"
             ],
             "fixedbinaryorder": 6,
@@ -31126,9 +31117,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "hasStorage": true,
@@ -31217,9 +31208,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -31308,9 +31299,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 9,
             "hasStorage": true,
@@ -31412,9 +31403,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 10,
             "hasStorage": true,
@@ -31529,9 +31520,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 11,
             "hasStorage": true,
@@ -31628,9 +31619,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 12,
             "hasStorage": true,
@@ -31735,9 +31726,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 13,
             "hasStorage": true,
@@ -31835,8 +31826,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 14,
             "hasStorage": true,
@@ -32038,9 +32029,9 @@
             "implicit": true,
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "Final"
             ],
             "fixedbinaryorder": 15,
@@ -32623,12 +32614,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -32668,12 +32659,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -33451,9 +33442,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 0,
             "hasStorage": true,
@@ -34129,12 +34120,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -34254,8 +34245,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -34370,8 +34361,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -34486,8 +34477,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -34602,8 +34593,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -34718,8 +34709,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -34834,9 +34825,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -34925,9 +34916,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 6,
             "hasStorage": true,
@@ -35016,9 +35007,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "hasStorage": true,
@@ -35126,9 +35117,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -35268,9 +35259,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 9,
             "hasStorage": true,
@@ -35385,8 +35376,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -35501,8 +35492,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -36130,12 +36121,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Facia.CardDetectionUtilityDelegate?",
+                "printedName": "(any Facia.CardDetectionUtilityDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "CardDetectionUtilityDelegate",
-                    "printedName": "Facia.CardDetectionUtilityDelegate",
+                    "printedName": "any Facia.CardDetectionUtilityDelegate",
                     "usr": "s:5Facia28CardDetectionUtilityDelegateP"
                   }
                 ],
@@ -36163,12 +36154,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "Facia.CardDetectionUtilityDelegate?",
+                    "printedName": "(any Facia.CardDetectionUtilityDelegate)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "CardDetectionUtilityDelegate",
-                        "printedName": "Facia.CardDetectionUtilityDelegate",
+                        "printedName": "any Facia.CardDetectionUtilityDelegate",
                         "usr": "s:5Facia28CardDetectionUtilityDelegateP"
                       }
                     ],
@@ -36196,12 +36187,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "Facia.CardDetectionUtilityDelegate?",
+                    "printedName": "(any Facia.CardDetectionUtilityDelegate)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "CardDetectionUtilityDelegate",
-                        "printedName": "Facia.CardDetectionUtilityDelegate",
+                        "printedName": "any Facia.CardDetectionUtilityDelegate",
                         "usr": "s:5Facia28CardDetectionUtilityDelegateP"
                       }
                     ],
@@ -36376,12 +36367,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -36673,9 +36664,9 @@
             "moduleName": "Facia",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 0,
@@ -36707,9 +36698,9 @@
             "moduleName": "Facia",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 1,
@@ -36733,10 +36724,10 @@
             "moduleName": "Facia",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 2,
@@ -36761,9 +36752,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 3,
             "hasStorage": true,
@@ -36871,9 +36862,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -37000,9 +36991,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -37188,9 +37179,9 @@
             "implicit": true,
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "Final"
             ],
             "fixedbinaryorder": 6,
@@ -37213,10 +37204,10 @@
             "mangledName": "$s5Facia23CardDetectionControllerC15videoDataOutputSo014AVCaptureVideofG0Cvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 7,
             "isLet": true,
@@ -37264,9 +37255,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 8,
             "hasStorage": true,
@@ -37355,9 +37346,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 9,
             "hasStorage": true,
@@ -37447,8 +37438,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 10,
             "hasStorage": true,
@@ -37550,9 +37541,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 11,
             "hasStorage": true,
@@ -37667,9 +37658,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 12,
             "hasStorage": true,
@@ -37758,9 +37749,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 13,
             "hasStorage": true,
@@ -37849,9 +37840,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 14,
             "hasStorage": true,
@@ -37940,8 +37931,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -38056,8 +38047,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -38172,9 +38163,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 17,
             "hasStorage": true,
@@ -38263,9 +38254,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 18,
             "hasStorage": true,
@@ -38354,9 +38345,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 19,
             "hasStorage": true,
@@ -38445,9 +38436,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 20,
             "hasStorage": true,
@@ -38536,9 +38527,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 21,
             "hasStorage": true,
@@ -38627,9 +38618,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 22,
             "hasStorage": true,
@@ -38726,9 +38717,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 23,
             "hasStorage": true,
@@ -38841,9 +38832,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 24,
             "hasStorage": true,
@@ -38956,9 +38947,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 25,
             "hasStorage": true,
@@ -39063,9 +39054,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 26,
             "hasStorage": true,
@@ -39154,9 +39145,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 27,
             "hasStorage": true,
@@ -39245,9 +39236,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 28,
             "hasStorage": true,
@@ -39336,9 +39327,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 29,
             "hasStorage": true,
@@ -39427,9 +39418,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 30,
             "hasStorage": true,
@@ -39518,8 +39509,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -39634,8 +39625,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -39750,8 +39741,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -39866,9 +39857,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 34,
             "hasStorage": true,
@@ -39957,9 +39948,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 35,
             "hasStorage": true,
@@ -40047,10 +40038,10 @@
             "mangledName": "$s5Facia23CardDetectionControllerC04cardC0AA0bC7UtilityCvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 36,
             "isLet": true,
@@ -40106,9 +40097,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 37,
             "hasStorage": true,
@@ -40213,9 +40204,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 38,
             "hasStorage": true,
@@ -40304,9 +40295,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 39,
             "hasStorage": true,
@@ -40395,9 +40386,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 40,
             "hasStorage": true,
@@ -40494,9 +40485,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 41,
             "hasStorage": true,
@@ -41203,12 +41194,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -41847,8 +41838,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -41953,12 +41944,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Facia.ActiveInstructionProtocol?",
+                "printedName": "(any Facia.ActiveInstructionProtocol)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "ActiveInstructionProtocol",
-                    "printedName": "Facia.ActiveInstructionProtocol",
+                    "printedName": "any Facia.ActiveInstructionProtocol",
                     "usr": "s:5Facia25ActiveInstructionProtocolP"
                   }
                 ],
@@ -41971,9 +41962,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 1,
             "hasStorage": true,
@@ -41986,12 +41977,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "Facia.ActiveInstructionProtocol?",
+                    "printedName": "(any Facia.ActiveInstructionProtocol)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "ActiveInstructionProtocol",
-                        "printedName": "Facia.ActiveInstructionProtocol",
+                        "printedName": "any Facia.ActiveInstructionProtocol",
                         "usr": "s:5Facia25ActiveInstructionProtocolP"
                       }
                     ],
@@ -42019,12 +42010,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "Facia.ActiveInstructionProtocol?",
+                    "printedName": "(any Facia.ActiveInstructionProtocol)?",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "ActiveInstructionProtocol",
-                        "printedName": "Facia.ActiveInstructionProtocol",
+                        "printedName": "any Facia.ActiveInstructionProtocol",
                         "usr": "s:5Facia25ActiveInstructionProtocolP"
                       }
                     ],
@@ -42078,9 +42069,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 2,
             "hasStorage": true,
@@ -42169,9 +42160,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 3,
             "hasStorage": true,
@@ -42260,9 +42251,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -42351,8 +42342,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -42467,8 +42458,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -42583,8 +42574,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -42699,8 +42690,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -43204,9 +43195,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 0,
             "hasStorage": true,
@@ -43340,9 +43331,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 1,
             "hasStorage": true,
@@ -43469,8 +43460,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -43585,8 +43576,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -43701,9 +43692,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -45283,12 +45274,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -45327,12 +45318,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "(any Swift.Error)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Error",
-                    "printedName": "Swift.Error",
+                    "printedName": "any Swift.Error",
                     "usr": "s:s5ErrorP"
                   }
                 ],
@@ -45652,8 +45643,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -45768,8 +45759,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -45893,8 +45884,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "IBOutlet",
               "ObjC"
             ],
@@ -46007,8 +45998,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46123,8 +46114,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46239,8 +46230,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46355,8 +46346,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46471,8 +46462,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46587,8 +46578,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46703,8 +46694,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46819,8 +46810,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -46935,8 +46926,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -47051,9 +47042,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 12,
             "hasStorage": true,
@@ -47142,9 +47133,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 13,
             "hasStorage": true,
@@ -47233,9 +47224,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 14,
             "hasStorage": true,
@@ -47324,9 +47315,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 15,
             "hasStorage": true,
@@ -47512,9 +47503,9 @@
             "implicit": true,
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "Final"
             ],
             "fixedbinaryorder": 16,
@@ -47537,10 +47528,10 @@
             "mangledName": "$s5Facia23LiveDetectionControllerC15videoDataOutputSo014AVCaptureVideofG0Cvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 17,
             "isLet": true,
@@ -47588,9 +47579,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 18,
             "hasStorage": true,
@@ -47692,9 +47683,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 19,
             "hasStorage": true,
@@ -47809,9 +47800,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 20,
             "hasStorage": true,
@@ -47900,9 +47891,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 21,
             "hasStorage": true,
@@ -47991,9 +47982,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 22,
             "hasStorage": true,
@@ -48082,9 +48073,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 23,
             "hasStorage": true,
@@ -48173,9 +48164,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 24,
             "hasStorage": true,
@@ -48264,9 +48255,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 25,
             "hasStorage": true,
@@ -48355,9 +48346,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 26,
             "hasStorage": true,
@@ -48446,9 +48437,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 27,
             "hasStorage": true,
@@ -48545,9 +48536,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 28,
             "hasStorage": true,
@@ -48660,9 +48651,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 29,
             "hasStorage": true,
@@ -48775,9 +48766,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 30,
             "hasStorage": true,
@@ -48882,9 +48873,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 31,
             "hasStorage": true,
@@ -48973,9 +48964,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 32,
             "hasStorage": true,
@@ -49064,9 +49055,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 33,
             "hasStorage": true,
@@ -49155,9 +49146,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 34,
             "hasStorage": true,
@@ -49246,9 +49237,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 35,
             "hasStorage": true,
@@ -49337,9 +49328,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 36,
             "hasStorage": true,
@@ -49428,9 +49419,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 37,
             "hasStorage": true,
@@ -49519,9 +49510,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 38,
             "hasStorage": true,
@@ -49610,9 +49601,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 39,
             "hasStorage": true,
@@ -49701,9 +49692,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 40,
             "hasStorage": true,
@@ -49792,9 +49783,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 41,
             "hasStorage": true,
@@ -49883,9 +49874,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 42,
             "hasStorage": true,
@@ -49974,9 +49965,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 43,
             "hasStorage": true,
@@ -50065,9 +50056,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 44,
             "hasStorage": true,
@@ -50156,9 +50147,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 45,
             "hasStorage": true,
@@ -50247,9 +50238,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 46,
             "hasStorage": true,
@@ -50338,9 +50329,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 47,
             "hasStorage": true,
@@ -50429,9 +50420,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 48,
             "hasStorage": true,
@@ -50521,8 +50512,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 49,
             "hasStorage": true,
@@ -50630,9 +50621,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 50,
             "hasStorage": true,
@@ -50759,9 +50750,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 51,
             "hasStorage": true,
@@ -50850,9 +50841,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 52,
             "hasStorage": true,
@@ -50949,9 +50940,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 53,
             "hasStorage": true,
@@ -51064,9 +51055,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 54,
             "hasStorage": true,
@@ -51179,9 +51170,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 55,
             "hasStorage": true,
@@ -51286,9 +51277,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 56,
             "hasStorage": true,
@@ -51385,9 +51376,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 57,
             "hasStorage": true,
@@ -51492,9 +51483,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 58,
             "hasStorage": true,
@@ -51583,9 +51574,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 59,
             "hasStorage": true,
@@ -51674,9 +51665,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 60,
             "hasStorage": true,
@@ -51765,9 +51756,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 61,
             "hasStorage": true,
@@ -51856,9 +51847,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 62,
             "hasStorage": true,
@@ -51947,9 +51938,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 63,
             "hasStorage": true,
@@ -52038,9 +52029,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 64,
             "hasStorage": true,
@@ -52129,9 +52120,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 65,
             "hasStorage": true,
@@ -52220,9 +52211,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 66,
             "hasStorage": true,
@@ -52311,9 +52302,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 67,
             "hasStorage": true,
@@ -52402,9 +52393,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 68,
             "hasStorage": true,
@@ -52493,9 +52484,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 69,
             "hasStorage": true,
@@ -52584,9 +52575,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 70,
             "hasStorage": true,
@@ -52675,9 +52666,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 71,
             "hasStorage": true,
@@ -52766,9 +52757,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 72,
             "hasStorage": true,
@@ -52865,9 +52856,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 73,
             "hasStorage": true,
@@ -52972,9 +52963,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 74,
             "hasStorage": true,
@@ -53063,9 +53054,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 75,
             "hasStorage": true,
@@ -53153,10 +53144,10 @@
             "mangledName": "$s5Facia23LiveDetectionControllerC11globalQueueSo17OS_dispatch_queueCvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 76,
             "isLet": true,
@@ -53204,9 +53195,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 77,
             "hasStorage": true,
@@ -53295,9 +53286,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 78,
             "hasStorage": true,
@@ -53386,9 +53377,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 79,
             "hasStorage": true,
@@ -53477,9 +53468,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 80,
             "hasStorage": true,
@@ -53568,9 +53559,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 81,
             "hasStorage": true,
@@ -53659,9 +53650,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 82,
             "hasStorage": true,
@@ -53750,9 +53741,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 83,
             "hasStorage": true,
@@ -53841,9 +53832,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 84,
             "hasStorage": true,
@@ -53932,9 +53923,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 85,
             "hasStorage": true,
@@ -54023,9 +54014,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 86,
             "hasStorage": true,
@@ -54114,9 +54105,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 87,
             "hasStorage": true,
@@ -54205,9 +54196,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 88,
             "hasStorage": true,
@@ -54296,9 +54287,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 89,
             "hasStorage": true,
@@ -54387,9 +54378,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 90,
             "hasStorage": true,
@@ -54486,9 +54477,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 91,
             "hasStorage": true,
@@ -54593,9 +54584,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 92,
             "hasStorage": true,
@@ -54685,8 +54676,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 93,
             "hasStorage": true,
@@ -54775,9 +54766,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 94,
             "hasStorage": true,
@@ -54866,9 +54857,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 95,
             "hasStorage": true,
@@ -54965,9 +54956,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 96,
             "hasStorage": true,
@@ -55071,10 +55062,10 @@
             "mangledName": "$s5Facia23LiveDetectionControllerC10customViewSo6UIViewCvp",
             "moduleName": "Facia",
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 97,
             "isLet": true,
@@ -55130,9 +55121,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 98,
             "hasStorage": true,
@@ -55245,9 +55236,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 99,
             "hasStorage": true,
@@ -55361,8 +55352,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 100,
             "hasStorage": true,
@@ -55475,9 +55466,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 101,
             "hasStorage": true,
@@ -55590,9 +55581,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 102,
             "hasStorage": true,
@@ -55697,9 +55688,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 103,
             "hasStorage": true,
@@ -59354,9 +59345,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 0,
             "hasStorage": true,
@@ -59445,9 +59436,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 1,
             "hasStorage": true,
@@ -59555,9 +59546,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 2,
             "hasStorage": true,
@@ -59684,9 +59675,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 3,
             "hasStorage": true,
@@ -59775,9 +59766,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 4,
             "hasStorage": true,
@@ -59866,9 +59857,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 5,
             "hasStorage": true,
@@ -59957,9 +59948,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 6,
             "hasStorage": true,
@@ -60048,8 +60039,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -60164,8 +60155,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -60280,8 +60271,8 @@
             "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "ReferenceOwnership",
               "IBOutlet",
               "ObjC"
@@ -60396,9 +60387,9 @@
             "moduleName": "Facia",
             "isOpen": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "Custom"
             ],
             "fixedbinaryorder": 10,
             "hasStorage": true,
@@ -63988,6 +63979,7 @@
         "mangledName": "$sSS",
         "moduleName": "Swift",
         "declAttributes": [
+          "EagerMove",
           "Frozen"
         ],
         "isExternal": true,
@@ -64566,7 +64558,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ExistentialMetatype",
-                "printedName": "AnyObject.Type",
+                "printedName": "any AnyObject.Type",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -67124,10 +67116,10 @@
             "moduleName": "Facia",
             "static": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Custom",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -67755,6 +67747,7 @@
         "genericSig": "<τ_0_0, τ_0_1 where τ_0_0 : Swift.Hashable>",
         "sugared_genericSig": "<Key, Value where Key : Swift.Hashable>",
         "declAttributes": [
+          "EagerMove",
           "Frozen"
         ],
         "isExternal": true,
@@ -69515,7 +69508,7 @@
       "kind": "StringLiteral",
       "offset": 86,
       "length": 7,
-      "value": "\"3.0.4\""
+      "value": "\"3.0.5\""
     },
     {
       "filePath": "\/Users\/yasir.siddique\/Desktop\/ios-core-sdk\/facia-ios\/Facia\/FaciaModule\/Utilities\/AppConstant.swift",
